@@ -1,0 +1,2 @@
+# Unsupervised-ML---Netflix-Movies-and-TV-Shows-Clustering
+ This project involves clustering Netflix movies and TV shows based on various attributes such as genre, country, release year, and rating. The dataset includes 7,787 entries with details like title, director, cast, and description, enabling a comprehensive analysis to uncover patterns and similarities among the content available on Netflix.
